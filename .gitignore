@@ -1,0 +1,5 @@
+# ignora todos os node_modules das pastas filhas
+*/**/node_modules
+
+# ignora o DS_Store de sistemas Apple
+.DS_Store
