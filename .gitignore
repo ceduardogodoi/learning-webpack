@@ -3,3 +3,6 @@
 
 # ignora o DS_Store de sistemas Apple
 .DS_Store
+
+# ignora o diretório dist
+./client/dist
