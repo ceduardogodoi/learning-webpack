@@ -5,4 +5,4 @@
 .DS_Store
 
 # ignora o diretório dist
-./client/dist
+*/**/dist
