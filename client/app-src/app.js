@@ -5,9 +5,6 @@ import 'bootstrap/dist/css/bootstrap-theme.css';
 import 'bootstrap/js/modal.js';
 import '../css/meucss.css';
 
-$('h1').click(() => alert('você me clicou'));
-console.log($('h1').modal);
-
 const controller = new NegociacaoController();
 const negociacao = new Negociacao(new Date(), 1, 200);
 const headers = new Headers();
